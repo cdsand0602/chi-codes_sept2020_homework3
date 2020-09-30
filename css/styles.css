@@ -1,0 +1,16 @@
+.center{
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    padding: 15;
+    align-content: center;
+
+}
+
+.quote{
+   display: inline;
+   color: violet;
+   font-size: 160%;
+   font-family: Verdana;
+}
